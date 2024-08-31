@@ -2,7 +2,9 @@ Tic-Tac-Toe App
 
 This is a classic Tic-Tac-Toe game developed for Android using Java. The app offers a straightforward yet engaging gameplay experience where users can play the timeless game on their mobile devices.
 
-App Logic and FeaturesGameplay Mechanics: 
+App Logic and Features
+
+Gameplay Mechanics: 
 
 The app follows the traditional rules of Tic-Tac-Toe, where players take turns placing Xs and Os on a 3x3 grid. The game checks for winning conditions after each move to determine if a player has won, or if the game has ended in a draw.
 
