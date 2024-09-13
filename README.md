@@ -31,3 +31,7 @@ The app benefits from Java’s reliability and cross-platform capabilities. Java
 Leveraging the Android platform, the app utilizes its powerful APIs and user interface frameworks to deliver a responsive and enjoyable user experience. The platform’s versatility allows the app to perform well across a wide range of Android devices.
 
 This Tic-Tac-Toe app is not only a fun game but also an excellent example of implementing game logic and exception handling in programming, showcasing various scenarios of gameplay logic in a practical application.
+
+Credit:
+
+https://youtu.be/Fa5egLurW5U?si=z3f_IQ9ZZjbCDLVn
