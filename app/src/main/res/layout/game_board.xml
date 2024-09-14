@@ -63,18 +63,19 @@
 
         <com.example.tictactoe.TicTacToeBoard
             android:id="@+id/ticTacToeBoard2"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
+            android:layout_width="409dp"
+            android:layout_height="406dp"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintHorizontal_bias="0.4"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent"
-            app:layout_constraintVertical_bias="0.431"
-            custom:OColor="#0000FF"
-            custom:XColor="#FF0000"
+            app:layout_constraintVertical_bias="0.498"
             custom:boardColor="#000000"
-            custom:WinningLineColor="#00FF00"/>
+            custom:XColor="#FF0000"
+            custom:OColor="#0000FF"
+            custom:WinningLineColor="#00FF00"
+            />
 
     </androidx.constraintlayout.widget.ConstraintLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>
